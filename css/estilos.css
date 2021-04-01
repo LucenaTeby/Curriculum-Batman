@@ -1,0 +1,41 @@
+header{background-color:#dddddd ;
+text-align: center;}
+h1{background-color: #BFBFBF;
+    word-spacing:30px;
+color:rgb(17, 56, 172);
+text-transform:uppercase;
+letter-spacing:7px;
+}
+h2{background-color: #BFBFBF;
+    word-spacing:10px;
+color:maroon;
+letter-spacing:7px;
+text-transform:uppercase;}
+footer{background-color:steelblue;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+color: white;
+font-size:30px;
+text-align:center;}
+.logos{ width: 35px; height: 35px;
+    vertical-align: middle; 
+}
+span{font-weight: bold;
+    font-style: italic;
+}
+ul{font-size: 23px;
+    text-transform:uppercase;
+}
+dl{font-size: 23px;}
+main{font-family:Arial, Helvetica, sans-serif
+    /*width: 600px;
+    height: 500px;*/
+    position= absolute;
+    top: 50%;
+    left: 50%;
+    /*margin-top: -200px; /* 50% del alto*/
+    /*margin-left: -300px; /* 50% del ancho */
+    padding: 50px 500px 50px 500px;
+}
