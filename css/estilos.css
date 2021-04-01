@@ -11,17 +11,23 @@ h2{background-color: #BFBFBF;
 color:maroon;
 letter-spacing:7px;
 text-transform:uppercase;}
+
+
 footer{background-color:steelblue;
-    position: absolute;
-    right: 0;
-    bottom: 0;
-    left: 0;
+    height:50px;
+    
+   
 color: white;
 font-size:30px;
 text-align:center;}
+
 .logos{ width: 35px; height: 35px;
     vertical-align: middle; 
 }
+
+
+
+
 span{font-weight: bold;
     font-style: italic;
 }
@@ -39,3 +45,6 @@ main{font-family:Arial, Helvetica, sans-serif
     /*margin-left: -300px; /* 50% del ancho */
     padding: 50px 500px 50px 500px;
 }
+body{margin: 0;
+padding: 0;}
+p{margin-top: 100px;}
